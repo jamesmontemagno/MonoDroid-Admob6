@@ -14,8 +14,8 @@ Ensure that you update the AdUnitID in the layout xml with your publisher ID or 
 ads:adUnitId="PUBLISHER_ID_HERE"
 
 ## Screenshots
-![Initial Ad](https://github.com/jamesmontemagno/MonoDroid-Admob6/blob/master/Raw/Screenshots/Ads1.PNG)
-![Ad Refreshed](https://github.com/jamesmontemagno/MonoDroid-Admob6/blob/master/Raw/Screenshots/Ads2.PNG)
+![Initial Ad](https://github.com/jamesmontemagno/MonoDroid-Admob6/raw/master/Screenshots/Ads1.PNG)
+![Ad Refreshed](https://github.com/jamesmontemagno/MonoDroid-Admob6/raw/master/Screenshots/Ads2.PNG)
 
 ## TODO
 Add terestrial ads
